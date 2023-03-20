@@ -6,7 +6,7 @@
 
 I am a Full-Stack Web Developer based in North Vancover BC, Canada. I am passionate about building beautiful, intuitive, and performant web applications. I am currently working on a few personal projects and am always looking for new opportunities to learn and grow.
 
-### ![HACKERMANS](/assets/HACKERMANS1x.webp "HACKERMANS") Coding Skills
+## ![HACKERMANS](/assets/HACKERMANS1x.webp "HACKERMANS") Coding Skills
 
 I have been coding for over 5 years and have experience with a wide range of technologies. Some of the technologies I use the most:
 
@@ -47,7 +47,7 @@ I have been coding for over 5 years and have experience with a wide range of tec
 [![Docker][Docker]][Docker-url]
 [![VS Code][VS Code]][VS Code-url]
 
-### ![hmmPHONE](/assets/hmmPHONE1x.webp "hmmPHONE") Contact Me
+## ![hmmPHONE](/assets/hmmPHONE1x.webp "hmmPHONE") Contact Me
 
 If you would like to get in touch with me, you can reach me at the following links:
 
