@@ -1,4 +1,4 @@
-# Hello World, I'm Kiefer Hogg
+# Hello World, I'm Kiefer
 
 ![Banner](/assets/banner.gif "Art by Jurica Cvetko <https://www.pinterest.ca/pin/563583340862273651/>")
 
