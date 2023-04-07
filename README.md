@@ -1,6 +1,6 @@
 # Hello World, I'm Kiefer Hogg
 
-![Banner](/assets/banner.gif "Art by Jurica Cvetko <https://www.pinterest.ca/pin/563583340862273651/>")
+![Banner](/assets/banner.gif "Art by Anas Abdin <https://twitter.com/AnasAbdin/status/1644111386446798849/>")
 
 ## ![meowdy](/assets/meowdy1x.webp "meowdy") About Me
 
