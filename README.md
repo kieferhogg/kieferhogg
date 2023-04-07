@@ -1,4 +1,4 @@
-# Hello World, I'm Kiefer Hogg
+# Hello World, I'm Kiefer
 
 ![Banner](/assets/banner.gif "Art by Anas Abdin <https://twitter.com/AnasAbdin/status/1644111386446798849/>")
 
